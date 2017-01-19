@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Graficos.iml" filepath="$PROJECT_DIR$/Graficos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animacionDrawable/animacionDrawable.iml" filepath="$PROJECT_DIR$/animacionDrawable/animacionDrawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curvas/curvas.iml" filepath="$PROJECT_DIR$/curvas/curvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dibujarEnPantalla/dibujarEnPantalla.iml" filepath="$PROJECT_DIR$/dibujarEnPantalla/dibujarEnPantalla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventosTouch/eventosTouch.iml" filepath="$PROJECT_DIR$/eventosTouch/eventosTouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formasGeometricas/formasGeometricas.iml" filepath="$PROJECT_DIR$/formasGeometricas/formasGeometricas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pintarTexto/pintarTexto.iml" filepath="$PROJECT_DIR$/pintarTexto/pintarTexto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textoSiguiendoCurva/textoSiguiendoCurva.iml" filepath="$PROJECT_DIR$/textoSiguiendoCurva/textoSiguiendoCurva.iml" />
+    </modules>
+  </component>
+</project>
